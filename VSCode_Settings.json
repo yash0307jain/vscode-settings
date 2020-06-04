@@ -18,11 +18,11 @@
 		"titleBar.activeBackground": "#1b1b1b",
 		"menu.background": "#1b1b1b",
 		"quickInput.background": "#1b1b1b",
-		"editor.selectionBackground": "#133257",
+		// "editor.selectionBackground": "#133257",
 		"editorGroupHeader.tabsBackground": "#1b1b1b",
 		"editor.background": "#111111",
-		"editor.lineHighlightBackground": "#1e1e1f", // new
-		"editorCursor.foreground": "#ffffff", // new
+		"editor.lineHighlightBackground": "#1e1e1f",
+		"editorCursor.foreground": "#ffffff",
 		"tab.border": "#1b1b1b",
 		"tab.inactiveBackground": "#1b1b1b", 
 		"activityBar.background": "#1b1b1b",
