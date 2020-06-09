@@ -1,0 +1,16 @@
+1. Auto Rename Tag by Jun Han
+2. Bookmarks by Alessandro Fragnani
+3. Bracket Pair Colorizer by CoenraadS
+4. Dart by Dart Code
+5. Debugger for Chrome by Microsoft
+6. Docker by Microsoft
+7. ESLint by Dirk Baeumer
+8. Flutter by Dart Code
+9. GitLens — Git supercharged by Erix Amodio
+10. GraphQL by Prisma
+11. Live Server by Ritwick Dey
+12. Material Icon Theme by Plilipp Kief
+13. Path Autocomplete by Mihai Vilcu
+14. Path Intellisense by Christian Kohler
+15. Polacode by P & P
+16. Prettier - Code formatter by Esben Petersen
