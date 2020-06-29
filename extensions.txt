@@ -1,15 +1,16 @@
-1. Bookmarks by Alessandro Fragnani
-2. Bracket Pair Colorizer by CoenraadS
-3. Dart by Dart Code
-4. Debugger for Chrome by Microsoft
-5. Docker by Microsoft
-6. ESLint by Dirk Baeumer
-7. Flutter by Dart Code
-8. GitLens — Git supercharged by Erix Amodio
-9. GraphQL by Prisma
-10. Live Server by Ritwick Dey
-11. Material Icon Theme by Plilipp Kief
-12. Path Autocomplete by Mihai Vilcu
-13. Path Intellisense by Christian Kohler
-14. Polacode by P & P
-15. Prettier - Code formatter by Esben Petersen
+1. Bookmarks --> Alessandro Fragnani
+2. Bracket Pair Colorizer --> CoenraadS
+3. Dart --> Dart Code
+4. Debugger for Chrome --> Microsoft
+5. Docker --> Microsoft
+6. ESLint --> Dirk Baeumer
+7. Flutter --> Dart Code
+8. GitLens — Git supercharged --> Erix Amodio
+9. GraphQL --> Prisma
+10. Live Server --> Ritwick Dey
+11. Material Icon Theme --> Plilipp Kief
+12. Path Autocomplete --> Mihai Vilcu
+13. Path Intellisense --> Christian Kohler
+14. Polacode --> P & P
+15. Prettier - Code formatter --> Esben Petersen
+16. Python --> Microsoft
