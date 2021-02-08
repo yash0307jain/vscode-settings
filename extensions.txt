@@ -14,3 +14,6 @@
 14. Polacode --> P & P
 15. Prettier - Code formatter --> Esben Petersen
 16. Python --> Microsoft
+17. C/C++ --> Microsoft
+18. SQlite --> alexcvzz
+19. Error Lens --> Alexander
