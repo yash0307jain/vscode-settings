@@ -38,10 +38,10 @@
         "editorCursor.foreground": "#ffffff",
         "tab.border": "#1b1b1b",
         "tab.activeBorderTop": "#ffffff",
-        "tab.activeBackground": "#37373d",
+        "tab.activeBackground": "#252526",
         "tab.inactiveBackground": "#1b1b1b",
         "activityBar.background": "#1b1b1b",
-        // "sideBar.background": "#1b1b1b",
+        "sideBar.background": "#1b1b1b",
         "panel.background": "#1b1b1b",
         "terminal.background": "#1b1b1b",
         "statusBar.background": "#1b1b1b"
