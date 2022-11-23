@@ -30,21 +30,25 @@
         "titleBar.activeBackground": "#1b1b1b",
         "menu.background": "#1b1b1b",
         "quickInput.background": "#1b1b1b",
-        "editorGroupHeader.tabsBackground": "#1b1b1b",
-        "editorGutter.background": "#131212",
-        "editor.selectionBackground": "#1a3e6b",
-        "editor.lineHighlightBackground": "#2c2c2c",
-        "editor.background": "#131212",
-        "editorCursor.foreground": "#ffffff",
-        "tab.border": "#1b1b1b",
-        "tab.activeBorderTop": "#ffffff",
-        "tab.activeBackground": "#252526",
-        "tab.inactiveBackground": "#1b1b1b",
-        "activityBar.background": "#1b1b1b",
         "sideBar.background": "#1b1b1b",
         "panel.background": "#1b1b1b",
+        "statusBar.background": "#1b1b1b",
+        "tab.border": "#1b1b1b",
+        "tab.inactiveBackground": "#1b1b1b",
+        "activityBar.background": "#1b1b1b",
         "terminal.background": "#1b1b1b",
-        "statusBar.background": "#1b1b1b"
+        "editorGroupHeader.tabsBackground": "#1b1b1b",
+
+        "editor.selectionBackground": "#1a3e6b",
+
+        "editor.lineHighlightBackground": "#2c2c2c",
+
+        "editor.background": "#222121", //"#131212",
+        "editorGutter.background": "#222121",
+        "tab.activeBackground": "#222121",
+
+        "editorCursor.foreground": "#ffffff",
+        "tab.activeBorderTop": "#ffffff"
     },
     "notebook.cellToolbarLocation": {
         "default": "right",
