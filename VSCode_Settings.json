@@ -1,29 +1,21 @@
 {
-    "editor.fontSize": 16,
     "editor.fontWeight": "bold",
-    "editor.fontFamily": "Operator Mono Lig, Consolas, 'Courier New', monospace",
-    "editor.fontLigatures": true,
-    "editor.detectIndentation": false,
-    "editor.tabSize": 4,
+    "editor.fontSize": 14,
+    "terminal.integrated.fontSize": 14,
+    "workbench.iconTheme": "material-icon-theme",
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    // "terminal.integrated.fontWeight": "bold",
-    "terminal.integrated.fontSize": 16,
-    "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace",
-    "terminal.integrated.cursorBlinking": true,
-    "terminal.integrated.defaultProfile.windows": "Git Bash",
-    "workbench.iconTheme": "material-icon-theme",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.tabSize": 4,
     "prettier.tabWidth": 4,
-    "[dart]": {
-        "editor.formatOnSave": true
-        // "editor.defaultFormatter": "Dart-Code.dart-code"
+    "[python]": {
+        "editor.defaultFormatter": null
     },
-    "workbench.editor.enablePreview": true,
-    "C_Cpp.updateChannel": "Insiders",
-    "workbench.productIconTheme": "fluent-icons",
-    "workbench.editorAssociations": {
-        "*.ipynb": "jupyter-notebook"
-    },
+    "python.formatting.blackArgs": ["--line-length", "120"],
+    "python.formatting.provider": "black",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "window.commandCenter": true,
 
     // my custom theme
     "workbench.colorCustomizations": {
@@ -43,15 +35,15 @@
 
         "editor.lineHighlightBackground": "#2c2c2c",
 
-        "editor.background": "#222121", //"#131212",
-        "editorGutter.background": "#222121",
-        "tab.activeBackground": "#222121",
+        "editor.background": "#292929", //"#131212", "#222121"
+        "editorGutter.background": "#292929",
+        "tab.activeBackground": "#292929",
+        "list.inactiveSelectionBackground": "#292929",
+        // "sideBar.foreground": "#aeaeae",
+        // "list.inactiveSelectionForeground": "#ffffff",
+        // "list.inactiveFocusOutline": "#434343",
 
         "editorCursor.foreground": "#ffffff",
         "tab.activeBorderTop": "#ffffff"
-    },
-    "notebook.cellToolbarLocation": {
-        "default": "right",
-        "jupyter-notebook": "left"
     }
 }
