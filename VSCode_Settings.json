@@ -1,7 +1,8 @@
 {
     "editor.fontWeight": "bold",
-    "editor.fontSize": 14,
+    "editor.fontSize": 16,
     "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
     "workbench.iconTheme": "material-icon-theme",
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -15,7 +16,7 @@
     "python.formatting.blackArgs": ["--line-length", "120"],
     "python.formatting.provider": "black",
     "diffEditor.ignoreTrimWhitespace": false,
-    "window.commandCenter": true,
+    "notebook.lineNumbers": "on",
 
     // my custom theme
     "workbench.colorCustomizations": {
@@ -28,13 +29,12 @@
         "tab.border": "#1b1b1b",
         "tab.inactiveBackground": "#1b1b1b",
         "activityBar.background": "#1b1b1b",
-        "terminal.background": "#1b1b1b",
+        // "terminal.background": "#1b1b1b",
+        "terminal.background": "#ffffff",
+        "terminal.foreground": "#000000",
         "editorGroupHeader.tabsBackground": "#1b1b1b",
-
         "editor.selectionBackground": "#1a3e6b",
-
         "editor.lineHighlightBackground": "#2c2c2c",
-
         "editor.background": "#292929", //"#131212", "#222121"
         "editorGutter.background": "#292929",
         "tab.activeBackground": "#292929",
@@ -42,8 +42,8 @@
         // "sideBar.foreground": "#aeaeae",
         // "list.inactiveSelectionForeground": "#ffffff",
         // "list.inactiveFocusOutline": "#434343",
-
         "editorCursor.foreground": "#ffffff",
         "tab.activeBorderTop": "#ffffff"
-    }
+    },
+    "window.commandCenter": true
 }
